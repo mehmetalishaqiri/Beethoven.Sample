@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beethoven.Sample", "Beethoven.Sample\Beethoven.Sample.csproj", "{7BD1F471-FE0D-42EB-AAFE-BF01EC295AB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beethoven.SamplePlugin", "Beethoven.SamplePlugin\Beethoven.SamplePlugin.csproj", "{6D548BCA-49A6-41EE-83CB-55B1F27C229C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BD1F471-FE0D-42EB-AAFE-BF01EC295AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD1F471-FE0D-42EB-AAFE-BF01EC295AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD1F471-FE0D-42EB-AAFE-BF01EC295AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD1F471-FE0D-42EB-AAFE-BF01EC295AB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D548BCA-49A6-41EE-83CB-55B1F27C229C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D548BCA-49A6-41EE-83CB-55B1F27C229C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D548BCA-49A6-41EE-83CB-55B1F27C229C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D548BCA-49A6-41EE-83CB-55B1F27C229C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
